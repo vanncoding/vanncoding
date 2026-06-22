@@ -36,5 +36,5 @@ Improve English communication
 Get first Software Engineering internship
 📫 Connect With Me
 GitHub: https://github.com/USERNAME
-LinkedIn: (isi nanti)
-Email: (isi nanti)
+LinkedIn: (-)
+Email: (revandra033@gmail.com)
